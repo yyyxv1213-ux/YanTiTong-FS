@@ -1,0 +1,26 @@
+# 依赖与构建产物
+node_modules/
+dist/
+target/
+*.class
+
+# 测试产物
+tools/api-test/results/
+tools/perf-test/results/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.run/
+
+# 日志
+logs/
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 本地提交自动化（脚本与日志不入库）
+tools/git-automation/
