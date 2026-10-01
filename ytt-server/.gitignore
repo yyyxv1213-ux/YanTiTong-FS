@@ -1,0 +1,2 @@
+# IDEA 运行配置内含本地 SMTP 授权码（环境变量），禁止提交
+.run/YttServer.run.xml
